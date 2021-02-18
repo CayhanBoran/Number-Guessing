@@ -1,2 +1,2 @@
-# Number-Guessing
-This is a project that contains beginner python projects
+# Python Beginner Projects
+This is a repository for beginner python projects
